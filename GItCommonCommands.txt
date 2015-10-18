@@ -1,0 +1,5 @@
+git status (to know status of repo.)
+git pull origin master (to get changes from repo)
+git add --all (to add all changes for commit)
+git commit -m "Commit Message" (to commit changes)
+git push -u origin master (to puch changed in repo)
